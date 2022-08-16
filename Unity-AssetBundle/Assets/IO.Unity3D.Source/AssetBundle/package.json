@@ -1,0 +1,21 @@
+{
+    "name": "io.unity3d.source.assetbundle",
+    "displayName": "Source Framework AssetBundle",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Component in Source Framework - AssetBundle Library",
+    "dependencies": {
+    },
+    "author": {
+        "name": "Kakashi",
+        "email": "john.cha@qq.com",
+        "url": "https://github.com/kakashiio/Unity-AssetBundle"
+    },
+    "samples": [
+        {
+            "displayName": "Baisc usage about the AssetBundle",
+            "description": "Baisc usage about the AssetBundle",
+            "path": "Samples~/Basic"
+        }
+    ]
+}
