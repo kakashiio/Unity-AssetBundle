@@ -1,3 +1,16 @@
 {
-	"name": "SourceFramework.AssetBundle"
+    "name": "SourceFramework.AssetBundle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4bab01b7276124f4f9de0eacfdd98dbb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
